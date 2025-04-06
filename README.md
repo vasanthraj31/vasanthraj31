@@ -21,7 +21,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.kattis.com%2F&psig=AOvVaw0PkvKg9IEwlN6Ju6gEuOCe&ust=1744013257329000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCGqOr5wowDFQAAAAAdAAAAABAE>
+<img width="48" height="48" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.kattis.com%2F&psig=AOvVaw0PkvKg9IEwlN6Ju6gEuOCe&ust=1744013257329000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCGqOr5wowDFQAAAAAdAAAAABAE" alt="Kattis">
 
 ### My Codingplatforms Profile:
 
