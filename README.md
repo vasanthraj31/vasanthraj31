@@ -28,7 +28,7 @@
 
 
 
-<p> <a href="https://www.geeksforgeeks.org/user/rvasant1gnz/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Vasanthraj" alt="GFG stats"/></a></p>
+<p> <a href="https://www.geeksforgeeks.org/user/rvasant1gnz/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vasanthraj_31" alt="GFG stats"/></a></p>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Vasanthraj_31/)
 
