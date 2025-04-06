@@ -15,6 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthrajrajavel31)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rvasanthraj31?t=ycGFCgcTCeSwpaCOuqXacg&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://x.com/rvasanthraj31?t=ycGFCgcTCeSwpaCOuqXacg&s=09](https://www.instagram.com/_i_m_vr_/))
+
 
 ## I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
