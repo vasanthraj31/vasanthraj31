@@ -24,17 +24,17 @@
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rvasant1gnz/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Vasanthraj/)
 
 
 
 <p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rvasant1gnz" alt="GFG stats"/></a></p>
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Vasanthraj_31/)
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/W42lL8BpLd?theme=dark&font=Marcellus)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vasanthraj_31?theme=dark&font=Marcellus)
 
 
 **Happy coding!**
